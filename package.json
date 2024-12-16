@@ -1,0 +1,17 @@
+{
+  "name": "electron-app-test-withplaywright",
+  "productName": "Electron with Playwright",
+  "version": "1.0.0",
+  "description": "Electron with Playwright",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron main.js"
+  },
+  "author": "Xian",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^33.2.1",
+    "toastify-js": "^1.12.0"
+  }
+}
